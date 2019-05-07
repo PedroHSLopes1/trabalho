@@ -51,7 +51,7 @@ public class ManutencaoCidade extends javax.swing.JDialog {
         jLabel3.setText("Nome");
 
         jLabel4.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
-        jLabel4.setText("VF");
+        jLabel4.setText("UF");
 
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
